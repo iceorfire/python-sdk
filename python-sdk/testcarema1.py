@@ -5,8 +5,8 @@ import time
 import os
 
 
-API_KEY = "AYBBwpAvX5W4hbuMgdNmP7vaGQ4udbCj"
-API_SECRET = "ggJEFaAvq0R2HOk5mPBh4H8Iq105ExyW"
+API_KEY = "your API"
+API_SECRET = "your API_SECRET"
 
 
 
